@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #ffffff;
+    margin: 0;
+}
+
+.container {
+    text-align: center;
+}
+
+.clock {
+    font-size: 120px;
+    margin-bottom: 20px;
+}
+
+.time-input {
+    font-size: 35px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.set-time-button {
+    font-size: 25px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+.special-image {
+    margin-top: 20px;
+    max-width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
